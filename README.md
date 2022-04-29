@@ -15,4 +15,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khadija-mohamed&show_icons=true&locale=en&layout=compact" alt="khadija-mohamed" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khadija-mohamed&show_icons=true&locale=en" alt="khadija-mohamed" /></p>
+
