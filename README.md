@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Khadija</h1>
-<h3 align="center">A passionate junior full-stack developer from Toronto!</h3>
 
 - 🌱 I’m currently learning **UI/UX** and looking to further build on what I have already learn regarding web development!
 
